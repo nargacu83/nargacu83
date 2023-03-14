@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is _Quentin_. I mostly do weird pixel simulations so called videogames and try to prototype cool stuff using open-source software as much as possible.
+
+### How to reach me:
+  - [Malt](https://en.malt.fr/profile/quentinfranchi)
+  - [LinkedIn](https://www.linkedin.com/in/quentinfranchi/)
+  - [Mastodon](https://linuxrocks.online/@nargacu83)
+  - [Gitea](https://gitea.heartnerds.org/dev.quentinfranchi/)
+
+##### ⚡ Fun fact: Snakes can fart.
+
 <!--
 **nargacu83/nargacu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
