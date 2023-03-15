@@ -8,8 +8,6 @@ My name is _Quentin_. I mostly do weird pixel simulations so called videogames a
   - [Mastodon](https://linuxrocks.online/@nargacu83)
   - [Gitea](https://gitea.heartnerds.org/dev.quentinfranchi/)
 
-##### ⚡ Fun fact: Snakes can fart.
-
 <!--
 **nargacu83/nargacu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
