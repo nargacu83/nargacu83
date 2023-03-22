@@ -3,7 +3,7 @@
 My name is _Quentin_. I mostly do weird pixel simulations so called videogames and try to prototype cool stuff using open-source software as much as possible.
 
 ### How to reach me:
-  - Freelancer on [Malt](https://en.malt.fr/profile/quentinfranchi) and [Freelance.com](https://plateforme.freelance.com/freelance/Quentin-41a06b0d-edc6-4ad8-ab15-203a635f9921)
+  - Freelancer on [Malt](https://en.malt.fr/profile/quentinfranchi)
   - [LinkedIn](https://www.linkedin.com/in/quentinfranchi/)
   - [Mastodon](https://linuxrocks.online/@nargacu83)
   - [Gitea](https://gitea.heartnerds.org/dev.quentinfranchi/)
