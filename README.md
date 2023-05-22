@@ -6,7 +6,6 @@ My name is _Quentin_. I mostly do weird pixel simulations so called videogames a
   - Freelancer on [Malt](https://en.malt.fr/profile/quentinfranchi)
   - [LinkedIn](https://www.linkedin.com/in/quentinfranchi/)
   - [Mastodon](https://linuxrocks.online/@nargacu83)
-  - [Gitea](https://gitea.heartnerds.org/dev.quentinfranchi/)
 
 <!--
 **nargacu83/nargacu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
