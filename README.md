@@ -5,7 +5,7 @@ My name is _Quentin_. I mostly do weird pixel simulations so called videogames a
 ### How to reach me:
   - Freelancer on [Malt](https://en.malt.fr/profile/quentinfranchi)
   - [LinkedIn](https://www.linkedin.com/in/quentinfranchi/)
-  - [Mastodon](https://linuxrocks.online/@nargacu83)
+  - <a rel="me" href="https://mastodon.gamedev.place/@nargacu83">Mastodon</a>
 
 <!--
 **nargacu83/nargacu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
